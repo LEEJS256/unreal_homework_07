@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal\\unreal_homework_06\\Source\\unreal_homework_06\\unreal_homework_06.Build.cs",
+		"E:\\Unreal\\unreal_homework_06\\Source\\unreal_homework_06.Target.cs",
+		"E:\\Unreal\\unreal_homework_06\\Source\\unreal_homework_06Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

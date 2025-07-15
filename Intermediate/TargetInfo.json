@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "unreal_homework_06",
+			"Path": "..\\Source\\unreal_homework_06.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "unreal_homework_06Editor",
+			"Path": "..\\Source\\unreal_homework_06Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

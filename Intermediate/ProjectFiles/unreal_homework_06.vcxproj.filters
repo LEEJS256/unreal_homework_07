@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\unreal_homework_06.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\unreal_homework_06.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\unreal_homework_06Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\unreal_homework_06">
+      <UniqueIdentifier>{778D7358-19E6-32BF-9F5B-34A20AB7037F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\unreal_homework_06\unreal_homework_06.Build.cs">
+      <Filter>Source\unreal_homework_06</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\unreal_homework_06\unreal_homework_06.cpp">
+      <Filter>Source\unreal_homework_06</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unreal_homework_06\unreal_homework_06.h">
+      <Filter>Source\unreal_homework_06</Filter>
+    </ClCompile>
+    <Filter Include="Source\unreal_homework_06\Private">
+      <UniqueIdentifier>{7670ED02-F725-30F0-8B1C-212D37E4EA48}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\unreal_homework_06\Private\Lee_GameMode.cpp">
+      <Filter>Source\unreal_homework_06\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unreal_homework_06\Private\Moving_Board.cpp">
+      <Filter>Source\unreal_homework_06\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unreal_homework_06\Private\MyPlayer.cpp">
+      <Filter>Source\unreal_homework_06\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unreal_homework_06\Private\Rotating_Board.cpp">
+      <Filter>Source\unreal_homework_06\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\unreal_homework_06\Public">
+      <UniqueIdentifier>{4C8AF999-4DE4-3E0D-8B04-ED26A055709E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\unreal_homework_06\Public\Lee_GameMode.h">
+      <Filter>Source\unreal_homework_06\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unreal_homework_06\Public\Moving_Board.h">
+      <Filter>Source\unreal_homework_06\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unreal_homework_06\Public\MyPlayer.h">
+      <Filter>Source\unreal_homework_06\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\unreal_homework_06\Public\Rotating_Board.h">
+      <Filter>Source\unreal_homework_06\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
